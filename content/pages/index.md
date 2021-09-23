@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to YOGA ANGA
+    title: "Welcome to\_ \_ \_ \_ YOGA - ANGA"
     subtitle: Optional hero section subtitle
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
