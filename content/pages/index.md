@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: "Welcome To\_ \_ \_ \_ YOGA ANGA"
-    subtitle: Optional hero section subtitle
+    subtitle: YOLO
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
