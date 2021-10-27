@@ -6,7 +6,6 @@ subtitle: >-
 date: '2021-01-04'
 categories:
   - content/data/categories/season-2.yaml
-thumb_image: /images/rachel.jpeg
 thumb_image_alt: Episode 9 placeholder image
 image: images/post-9.jpg
 image_alt: Episode 9 placeholder image
