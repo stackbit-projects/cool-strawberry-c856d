@@ -6,7 +6,7 @@ sections:
     subtitle: Thank you for testing this theme!
     actions:
       - label: Back to homepage
-        url: /
+        url: /episodes
         style: primary
     align: center
     padding_bottom: large
