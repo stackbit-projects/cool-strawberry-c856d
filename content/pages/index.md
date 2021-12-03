@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: "Welcome To\_ \_ \_ \_ YOGA ANG"
-    subtitle: YOLO
+    subtitle: Grow your health better
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
