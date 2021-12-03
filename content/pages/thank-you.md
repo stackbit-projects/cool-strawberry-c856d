@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Book Now
-    subtitle: Thank you for testing this themes!
+    subtitle: Thank you for testing this thems!
     actions:
       - label: Back to homepage
         url: /
